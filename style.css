@@ -99,6 +99,11 @@
     cursor: pointer;
 }
 
+.sub-navbar a {
+    text-decoration: none;
+    color: inherit;
+}
+
 /* =========================
    BANNER
 ========================= */
